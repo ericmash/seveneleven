@@ -1,8 +1,8 @@
-package seveneleven
+package com.seveneleven
 
 import grails.test.*
 
-class ProductTests extends GrailsUnitTestCase {
+class ProductControllerTests extends ControllerUnitTestCase {
     protected void setUp() {
         super.setUp()
     }

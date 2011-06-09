@@ -1,4 +1,6 @@
-package seveneleven
+package com.seveneleven
+
+import com.seveneleven.Product
 
 class ProductController {
 

@@ -1,4 +1,4 @@
-package seveneleven
+package com.seveneleven
 
 import grails.test.*
 
